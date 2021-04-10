@@ -1,6 +1,3 @@
-# Welcome
-I am the Academic Technology Specialist at Middlesex School in Concord, Massachusetts.
-
 ## Spring 2021 Semester
 - Teaching Robotics with Minecraft, mBot Ranger, mBlock, Python, and Arduino
 - Advising MX Pathfinders Society, Minecraft Club, Moodle Development Team
