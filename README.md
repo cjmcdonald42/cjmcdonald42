@@ -11,16 +11,16 @@ I'm re-creating my EdTech documentation as GitBooks. I have created many videos 
 and you-do's and need to bring it all together.
 
 ## Currently Learning
-LUA Addon Programming
-Moodle Plugin Programming
-Dreamweaver 2021, HTML 5, CSS
+- LUA Addon Programming
+- Moodle Plugin Programming
+- Dreamweaver 2021, HTML 5, CSS
 
 ## Currently Playing
-[Elder Scrolls Online](https://www.elderscrollsonline.com/)
-[Pathfinder 2nd Edition](https://paizo.com/)
+- [Elder Scrolls Online](https://www.elderscrollsonline.com/)
+- [Pathfinder 2nd Edition](https://paizo.com/)
 
 ## My Identity
 - Eagle Scout
-- bisexual, cis-male
+- cis-male
 - Irish
 - Pronouns: he, him, his
