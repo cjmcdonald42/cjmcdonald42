@@ -23,4 +23,4 @@ and you-do's and need to bring it all together.
 - Eagle Scout
 - cis-male
 - Irish
-- Pronouns: he, him, his
+- Pronouns: he, him, his [Why this matters](https://www.mypronouns.org/what-and-why)
