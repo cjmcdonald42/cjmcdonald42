@@ -3,10 +3,10 @@ I am the Academic Technology Specialist at Middlesex School in Concord, Massachu
 
 ## Spring 2021 Semester
 - Teaching Robotics with Minecraft, mBot Ranger, mBlock, Python, and Arduino
-- Advising MX Adventurers, Minecraft Club, Moodle Development Team
+- Advising MX Pathfinders Society, Minecraft Club, Moodle Development Team
 - Implementing a transition of our macOS and iOS devices to an MDM platform
 
-## My next project
+## My Next Project
 I'm re-creating my EdTech documentation as GitBooks. I have created many videos and blog-like posts as mailings with how-to's
 and you-do's and need to bring it all together.
 
@@ -21,6 +21,7 @@ and you-do's and need to bring it all together.
 
 ## My Identity
 - Eagle Scout
-- cis-male
+- bi, cis-male
 - Irish
-- Pronouns: he, him, his [Why this matters](https://www.mypronouns.org/what-and-why)
+- Pronouns: he, him, his  
+  [Why this matters](https://www.mypronouns.org/what-and-why)
