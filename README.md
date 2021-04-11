@@ -19,6 +19,6 @@ and you-do's and need to bring it all together.
 ## My Identity
 - Eagle Scout
 - cis-male
-- Irish
+- American, Canadian, Irish
 - Pronouns: he, him, his  
   \( [Why this matters](https://www.mypronouns.org/what-and-why) \)
