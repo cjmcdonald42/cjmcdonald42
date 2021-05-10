@@ -1,5 +1,6 @@
 ## Spring 2021 Semester
 - Teaching Robotics with Minecraft, mBot Ranger, mBlock, Python, and Arduino
+- Managing MX Moodle Site, planning upgrade to version 3.11
 - Advising MX Pathfinders Society, Minecraft Club, Moodle Development Team
 - Implementing a transition of our macOS and iOS devices to an MDM platform
 
