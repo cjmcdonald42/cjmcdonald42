@@ -4,8 +4,8 @@
 - Implementing a transition of our macOS and iOS devices to an MDM platform
 
 ## My Next Project
-I'm re-creating my EdTech documentation as GitBooks. I have created many videos and blog-like posts as mailings with how-to's
-and you-do's and need to bring it all together.
+I'm re-creating my EdTech documentation. I have created many videos and blog-like posts as mailings with how-to's
+and you-do's and need to bring it all together with a website or webapp.
 
 ## Currently Learning
 - LUA Addon Programming
