@@ -16,6 +16,7 @@ around campus that could benefit from a tech upgrade and Zoom capability.
 - Moodle Plugin Programming
 
 ## Currently Playing
+- [Minecraft, Life in the Village 2 Pack](https://www.curseforge.com/minecraft/modpacks/life-in-the-village-2)
 - [Elder Scrolls Online](https://www.elderscrollsonline.com/)
 - [Pathfinder 2nd Edition](https://paizo.com/)
 
@@ -23,5 +24,5 @@ around campus that could benefit from a tech upgrade and Zoom capability.
 - Eagle Scout
 - cis-male
 - American, Canadian, Irish
-- Pronouns: he, him 
+- Pronouns: he, him
   \( [Why this matters](https://www.mypronouns.org/what-and-why) \)
