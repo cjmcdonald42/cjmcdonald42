@@ -1,8 +1,8 @@
 ## Fall 2021 Semester
-- Managing MX LMS (Moodle)
-- Documentation review of mxMoodle
+- Code review of mxMoodle
 - Develop user documentation for mxMoodle
 - FAA Drone Pilot certificate for Robotics Club
+- Prepare new nanodrone curriculum for Spring Robotics Class
 
 ## My Next Project
 ZoomRooms and Digital Signage
@@ -14,13 +14,13 @@ ZoomRooms and Digital Signage
 - Zoom API
 
 ## Currently Playing
-- [Minecraft, Life in the Village 2 Pack](https://www.curseforge.com/minecraft/modpacks/life-in-the-village-2)
-- [Elder Scrolls Online](https://www.elderscrollsonline.com/)
 - [Pathfinder 2nd Edition](https://paizo.com/)
+- [Elder Scrolls Online](https://www.elderscrollsonline.com/)
+- [Minecraft, Life in the Village 2 Pack](https://www.curseforge.com/minecraft/modpacks/life-in-the-village-2)
 
 ## My Identity
 - Eagle Scout
 - cis-male
 - American, Canadian, Irish
-- Pronouns: he, him
+- Pronouns: he, him 
   \( [Why this matters](https://www.mypronouns.org/what-and-why) \)
