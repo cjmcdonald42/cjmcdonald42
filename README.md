@@ -6,8 +6,6 @@
 - Develop user documentation for mxMoodle
 
 ## My Next Project
-ZoomRooms and Digital Signage
-- Use Adobe Spark, Illustrator, and Spark to create our next generation of Digital Signage
 - Install portable Zoom Room carts in Ware Hall
 - Set up the next generation of IT Centre with presentation and podcasting station
 - Prepare a weekly technology podcast leading into a club or new Tech-based class
