@@ -1,22 +1,24 @@
 ## Fall 2021 Semester
-- Code review of mxMoodle
+- Prepare Drone Technology and Engineering curriculum for Spring Robotics Class
+
+## Spring 2022 Semester
+- Code review of mxMoodle, Prepare the road to Moodle v4.0
 - Develop user documentation for mxMoodle
-- FAA Drone Pilot certificate for Robotics Club
-- Prepare new nanodrone curriculum for Spring Robotics Class
 
 ## My Next Project
 ZoomRooms and Digital Signage
 - Use Adobe Spark, Illustrator, and Spark to create our next generation of Digital Signage
 - Install portable Zoom Room carts in Ware Hall
 - Set up the next generation of IT Centre with presentation and podcasting station
+- Prepare a weekly technology podcast leading into a club or new Tech-based class
 
 ## Currently Learning
-- Zoom API
+- Milestone C's DTE curriculum
 
 ## Currently Playing
 - [Pathfinder 2nd Edition](https://paizo.com/)
 - [Elder Scrolls Online](https://www.elderscrollsonline.com/)
-- [Minecraft, Life in the Village 2 Pack](https://www.curseforge.com/minecraft/modpacks/life-in-the-village-2)
+- [Better Minecrraft Plus modpack](https://www.curseforge.com/minecraft/modpacks/better-minecraft-plus)
 
 ## My Identity
 - Eagle Scout
