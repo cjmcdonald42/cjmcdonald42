@@ -1,13 +1,12 @@
-## Fall 2021 Semester
-- Prepare Drone Technology and Engineering curriculum for Spring Robotics Class
-
 ## Spring 2022 Semester
 - Code review of mxMoodle, Prepare the road to Moodle v4.0
 - Develop user documentation for mxMoodle
+- Teach Robotics and Drone Technology
 
 ## My Next Project
-- Install portable Zoom Room carts in Ware Hall
-- Set up the next generation of IT Centre with presentation and podcasting station
+- Zoom Rooms and Digital Signage
+- Prepare my Robotics Class for the Spring Semester
+- Set up a Moodle 4.0 Development Server
 - Prepare a weekly technology podcast leading into a club or new Tech-based class
 
 ## Currently Learning
@@ -16,7 +15,7 @@
 ## Currently Playing
 - [Pathfinder 2nd Edition](https://paizo.com/)
 - [Elder Scrolls Online](https://www.elderscrollsonline.com/)
-- [Better Minecrraft Plus modpack](https://www.curseforge.com/minecraft/modpacks/better-minecraft-plus)
+- [Better Minecraft Plus modpack](https://www.curseforge.com/minecraft/modpacks/better-minecraft-plus)
 
 ## My Identity
 - Eagle Scout
