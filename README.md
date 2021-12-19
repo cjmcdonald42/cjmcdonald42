@@ -7,14 +7,15 @@
 - Prepare my Robotics Class for the Spring Semester
 - Set up a Moodle 4.0 Development Server
 - Prepare a weekly technology podcast leading into a club or new Tech-based class
-- Guide the [mxMinecraft Club as they prepare to launch a 1.18 Server.](https://github.com/mxschool/mxMinecraft)
 
 ## Currently Learning
 - Milestone C's DTE curriculum
 
 ## Currently Playing
-- [Pathfinder 2nd Edition](https://paizo.com/)
+- Minecraft with the [mxMinecraft Club](https://github.com/mxschool/mxMinecraft)
 - [Elder Scrolls Online](https://www.elderscrollsonline.com/)
+- [Pathfinder 2nd Edition](https://paizo.com/)
+
 
 ## My Identity
 - Eagle Scout
