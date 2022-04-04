@@ -8,10 +8,8 @@
 - Prepare a weekly technology podcast leading into a club or new Tech-based class
 
 ## Currently Learning
-- Milestone C's DTE curriculum
 
 ## Currently Playing
-- Minecraft with the [mxMinecraft Club](https://github.com/mxschool/mxMinecraft)
 - [Elder Scrolls Online](https://www.elderscrollsonline.com/)
 - [Pathfinder 2nd Edition](https://paizo.com/) with the mxPathfinders Society.
 
