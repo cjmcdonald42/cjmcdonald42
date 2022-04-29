@@ -9,7 +9,7 @@
 - Prepare a weekly technology podcast leading into a club or new Tech-based class
 - Create leadership rolefor students passionate about Academic Technology
 
-## Tea
+## Currently Brewing
 - [Cherry Blossom](https://teaforte.com/products/cherry-blossom)
 
 ## Currently Playing
