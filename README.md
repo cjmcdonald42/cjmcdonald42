@@ -7,6 +7,7 @@
 ## My Next Project
 - Set up a Moodle 4.0 Development Server
 - Prepare a weekly technology podcast leading into a club or new Tech-based class
+- Create leadership rolefor students passionate about Academic Technology
 
 ## Tea
 - [Cherry Blossom](https://teaforte.com/products/cherry-blossom)
@@ -14,6 +15,8 @@
 ## Currently Playing
 - [Elder Scrolls Online](https://www.elderscrollsonline.com/)
 - [Pathfinder 2nd Edition](https://paizo.com/) with the mxPathfinders Society.
+
+*/
 
 ## My Identity
 - Eagle Scout
