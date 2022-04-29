@@ -5,12 +5,12 @@
 - Prepare for Summer and Fall 2022
 
 ## My Next Project
-- Set up a Moodle 4.0 Development Server
+- Prepare a Moodle 4.0 Development Server
 - Prepare a weekly technology podcast leading into a club or new Tech-based class
 - Create leadership rolefor students passionate about Academic Technology
 
 ## Currently Brewing
-- [Cherry Blossom](https://teaforte.com/products/cherry-blossom)
+- [Cherry Blossom](https://teaforte.com/products/cherry-blossom) Tea
 
 ## Currently Playing
 - [Elder Scrolls Online](https://www.elderscrollsonline.com/)
