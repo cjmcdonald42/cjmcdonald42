@@ -16,8 +16,6 @@
 - [Elder Scrolls Online](https://www.elderscrollsonline.com/)
 - [Pathfinder 2nd Edition](https://paizo.com/) with the mxPathfinders Society.
 
-*/
-
 ## My Identity
 - Eagle Scout
 - cis-male
