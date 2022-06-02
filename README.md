@@ -3,14 +3,12 @@
 - Develop user documentation for mxMoodle
 - Summer Moodle Development
 - Prepare for Fall School Opening, 2022
-
-## My Next Project
-- Create leadership role for students passionate about Academic Technology
+- Continued progress on personal fitness goals
 - Build a team of Technology Technicians, a leadership position in Academic Technology this fall
 - Develop the curriculum for our Technology Technicians
 
 ## Currently Brewing
-- [Cherry Blossom](https://teaforte.com/products/cherry-blossom) Tea
+- [Cherry Blossom](https://teaforte.com/products/cherry-blossom) Iced Tea
 
 ## Currently Playing
 - [Elder Scrolls Online](https://www.elderscrollsonline.com/)
