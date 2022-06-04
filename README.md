@@ -16,7 +16,7 @@
 
 ## My Identity
 - Eagle Scout
-- $\Sigma$ cis-male
+- cis-male
 - MBTI: [ENFJ-A](https://www.16personalities.com/enfj-personality) \(Protagonist\)
 - American, Canadian, Irish
 - Pronouns: he, him
