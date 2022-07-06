@@ -1,11 +1,12 @@
 ## Summer 2022
+- Summer Moodle Development
 - Code review of mxMoodle
 - Develop user documentation for mxMoodle
-- Summer Moodle Development
 - Prepare for Fall School Opening, 2022
 - Continued progress on personal fitness goals
 - Build a team of Technology Technicians, a leadership position in Academic Technology this fall
 - Develop the curriculum for our Technology Technicians
+- Prepare a Minecraft ModPack for the Fall Robotics Club
 
 ## Currently Brewing
 - [Cherry Blossom](https://teaforte.com/products/cherry-blossom) Iced Tea
