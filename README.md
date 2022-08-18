@@ -1,5 +1,4 @@
 ## Summer 2022
-- Summer Moodle Development
 - Code review of mxMoodle
 - Develop user documentation for mxMoodle
 - Prepare for Fall School Opening, 2022
