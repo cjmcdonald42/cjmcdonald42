@@ -3,6 +3,7 @@
 - Prepare for Fall School Opening, 2022
 - Continued progress on personal fitness goals
 - Build a team of Student Technology Creatives, a leadership position in Academic Technology this fall
+- Teach Robotics
 
 ## Currently Brewing
 - [Cranberry Black](https://www.adagio.com/flavors/cranberry.html) Tea
