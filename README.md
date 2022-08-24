@@ -1,14 +1,12 @@
-## Summer 2022
-- Code review of mxMoodle
-- Develop user documentation for mxMoodle
+## Fall 2022
+- Create an mxMoodle Wiki
 - Prepare for Fall School Opening, 2022
 - Continued progress on personal fitness goals
-- Build a team of Technology Technicians, a leadership position in Academic Technology this fall
-- Develop the curriculum for our Technology Technicians
-- Prepare a Minecraft ModPack for the Fall Robotics Club
+- Build a team of Student Technology Creatives, a leadership position in Academic Technology this fall
 
 ## Currently Brewing
-- [Cherry Blossom](https://teaforte.com/products/cherry-blossom) Iced Tea
+- [Cranberry Black](https://www.adagio.com/flavors/cranberry.html) Tea
+- [Earl Grey Green](https://www.adagio.com/green/earl_grey_green.html) Tea (Because licorice does _NOT_ belong in tea)
 
 ## Currently Playing
 - [Elder Scrolls Online](https://www.elderscrollsonline.com/)
