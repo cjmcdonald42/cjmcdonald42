@@ -1,17 +1,16 @@
 ## Fall 2022
-- Create an mxMoodle Wiki
-- Prepare for Fall School Opening, 2022
-- Continued progress on personal fitness goals
-- Build a team of Student Technology Creatives, a leadership position in Academic Technology this fall
 - Teach Robotics
+- Build a team of Student Technology Creatives, a new leadership position in Academic Technology
+- Create an mxMoodle Wiki
+- Continued progress on personal fitness goals
 
 ## Currently Brewing
-- [Cranberry Black](https://www.adagio.com/flavors/cranberry.html) Tea
-- [Earl Grey Green](https://www.adagio.com/green/earl_grey_green.html) Tea (Because licorice does _NOT_ belong in tea)
+- [Honey Ginsing](https://www.republicoftea.com/honey-ginseng-full-leaf-loose-green-tea/p/v10004/) Tea
 
 ## Currently Playing
-- [Elder Scrolls Online](https://www.elderscrollsonline.com/)
 - [Pathfinder 2nd Edition](https://paizo.com/)
+- [Elder Scrolls Online](https://www.elderscrollsonline.com/)
+- [Guild Wars 2](https://www.guildwars2.com/en/end-of-dragons/)
 
 ## My Identity
 - Eagle Scout
