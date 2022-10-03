@@ -9,8 +9,8 @@
 
 ## Currently Playing
 - [Pathfinder 2nd Edition](https://paizo.com/)
-- [Elder Scrolls Online](https://www.elderscrollsonline.com/)
 - [Guild Wars 2](https://www.guildwars2.com/en/end-of-dragons/)
+- [Elder Scrolls Online](https://www.elderscrollsonline.com/)
 
 ## My Identity
 - Eagle Scout
