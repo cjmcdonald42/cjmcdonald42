@@ -1,15 +1,17 @@
-## Fall 2022
+## Winter 2022
 - Teach Robotics
 - Build a team of Student Technology Creatives, a new leadership position in Academic Technology
 - Create an mxMoodle Wiki
+- Upgrade mxMoodle to v4.1 in preparation for an upgrade over the summer
 - Continued progress on personal fitness goals
 
 ## Currently Brewing
-- [Wild Blueberry Black Tea](https://www.republicoftea.com/wild-blueberry-black-tea/p/v00599/) Tea
+- [Earl Grey Moonlight](https://www.adagio.com/black/earl_grey_moonlight.html) Tea
 
 ## Currently Playing
 - [Pathfinder 2nd Edition](https://paizo.com/)
-- [Guild Wars 2](https://www.guildwars2.com/en/end-of-dragons/)
+- [Guild Wars 2](https://www.guildwars2.com/)
+- [Cities:Skylines](https://www.paradoxinteractive.com/games/cities-skylines)
 
 ## My Identity
 - Eagle Scout
