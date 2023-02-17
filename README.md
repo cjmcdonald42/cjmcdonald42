@@ -6,10 +6,10 @@
 - Continued progress on personal fitness goals
 
 ## Currently Brewing
-- [Berry Blues](https://www.adagio.com/herbal/berry_blues.html) Tea
+- [Elderberry Wine](https://www.adagio.com/wellness/elderberry_wine.html) Tea
 
 ## Currently Playing
-- [Pathfinder 2nd Edition](https://paizo.com/)
+- [Pathfinder 2e](https://paizo.com/)
 - [Hogwarts Legacy](https://www.hogwartslegacy.com/)
 - [Guild Wars 2](https://www.guildwars2.com/)
 - [Cities:Skylines](https://www.paradoxinteractive.com/games/cities-skylines)
