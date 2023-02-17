@@ -10,6 +10,7 @@
 
 ## Currently Playing
 - [Pathfinder 2nd Edition](https://paizo.com/)
+- [Hogwarts Legacy](https://www.hogwartslegacy.com/)
 - [Guild Wars 2](https://www.guildwars2.com/)
 - [Cities:Skylines](https://www.paradoxinteractive.com/games/cities-skylines)
 
@@ -18,5 +19,6 @@
 - cis-male
 - MBTI: [ENFJ-A](https://www.16personalities.com/enfj-personality) \(Protagonist\)
 - American, Canadian, Irish
+- [Hufflepuff](https://www.wizardingworld.com/collections/hufflepuff)
 - Pronouns: he, him
   \([Why this matters](https://www.mypronouns.org/what-and-why)\)
