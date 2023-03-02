@@ -6,13 +6,11 @@
 - Continued progress on personal fitness goals
 
 ## Currently Brewing
-- [Elderberry Wine](https://www.adagio.com/wellness/elderberry_wine.html) Tea
+- [Berry Blues](https://www.adagio.com/herbal/berry_blues.html) Tea
 
 ## Currently Playing
 - [Pathfinder 2e](https://paizo.com/)
 - [Hogwarts Legacy](https://www.hogwartslegacy.com/)
-- [Guild Wars 2](https://www.guildwars2.com/)
-- [Cities:Skylines](https://www.paradoxinteractive.com/games/cities-skylines)
 
 ## My Identity
 - Eagle Scout
