@@ -1,12 +1,8 @@
-## Spring 2023
-- Build a team of Student Technology Creatives, a new leadership position in Academic Technology
-- Reinvent Technology Training at Middlesex to take advantage of new technology and our new schedule
-- Create an mxMoodle Wiki
-- Upgrade mxMoodle to v4.1 in preparation for an upgrade over the summer
-- Continued progress on personal fitness goals
-
-## Currently Brewing
-- [Berry Blues](https://www.adagio.com/herbal/berry_blues.html) Tea
+## Summer 2023
+- Time to reinvent myself!
+- MS-900 Certification: Microsoft 365 Essentials.
+- Recreate my LinkedIn Profile in preparation for meeting recruiters.
+- Personal fitness goals.
 
 ## Currently Playing
 - [Pathfinder 2e](https://paizo.com/)
