@@ -10,17 +10,10 @@
 - [Manner Lords](https://manorlords.com/)
 - [Hogwarts Legacy](https://www.hogwartslegacy.com/)
 
-## I'm Reading
-- [Pathfinder Howl of the Wild](https://paizo.com/products/btq02f09?Pathfinder-Howl-of-the-Wild)
-
 ## I'm Brewing
 - [Wild Strawberry](https://www.adagio.com/herbal/wild_strawberry.html) Tea
 - [Steepster](https://steepster.com/cjmcdonald)
 
-## I'm Writing
-- [Python](https://www.python.org/)
-- Using [PyCharm](https://www.jetbrains.com/pycharm)
- 
 ## My Identity
 - cis-male
 - MBTI: [ENFJ-A](https://www.16personalities.com/enfj-personality) \(Protagonist\)
