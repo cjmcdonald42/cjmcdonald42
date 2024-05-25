@@ -15,7 +15,7 @@
 - [Steepster](https://steepster.com/cjmcdonald)
 
 ## My Identity
-- cis-male
+- Cis-Male
 - MBTI: [ENFJ-A](https://www.16personalities.com/enfj-personality) \(Protagonist\)
 - American, Canadian, Irish
 - Eagle Scout
