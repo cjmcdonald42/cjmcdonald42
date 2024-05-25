@@ -18,3 +18,7 @@
 - [Python](https://www.python.org/)
 - Using [PyCharm](https://www.jetbrains.com/pycharm)
  
+## IRL:
+- [Pathfinder 2e](https://paizo.com/), [Elder Scrolls Online](https://www.elderscrollsonline.com/en-us/home), [Manner Lords](https://manorlords.com/), [Hogwarts Legacy](https://www.hogwartslegacy.com/), Minecraft,   
+  [Discord](https://discordapp.com/users/252142960710385666), Steam
+- [Wild Strawberry](https://www.adagio.com/herbal/wild_strawberry.html) Tea, Follow me on [Steepster](https://steepster.com/cjmcdonald)
