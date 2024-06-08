@@ -1,18 +1,12 @@
-## Summer 2023
-- Time to reinvent myself!
-- MS-900 Certification: Microsoft 365 Essentials.
-- Recreate my LinkedIn Profile in preparation for meeting recruiters.
+## My current projects
+- Prepare curriculum and program for Fall 2024, settle in to new program and position.
+- CTE certification, RWU
+- CTE Endorsement, URI
 - Personal fitness goals.
 
-## Currently Playing
-- [Pathfinder 2e](https://paizo.com/)
-- [Hogwarts Legacy](https://www.hogwartslegacy.com/)
-
 ## My Identity
-- Eagle Scout
-- cis-male
+- Cis-Male, Irish-Canadian-American
 - MBTI: [ENFJ-A](https://www.16personalities.com/enfj-personality) \(Protagonist\)
-- American, Canadian, Irish
-- [Hufflepuff](https://www.wizardingworld.com/collections/hufflepuff)
+- [Eagle Scout](https://www.cccbsa.org/2023/02/13/what-it-means-to-be-an-eagle-scout/), [Hufflepuff](https://www.wizardingworld.com/collections/hufflepuff)
 - Pronouns: he, him
   \([Why this matters](https://www.mypronouns.org/what-and-why)\)
