@@ -1,7 +1,6 @@
 ## My current projects
 - Prepare curriculum and program for Fall 2024, settle in to new program and position.
-- CTE certification, RWU
-- CTE Endorsement, URI
+- CS Endorsement, URI
 - Personal fitness goals.
 
 ## My Identity
