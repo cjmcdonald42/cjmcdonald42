@@ -1,8 +1,7 @@
 ## My current projects
-- Prepare classroom, curriculum, and program for Fall 2024.
 - CS Endorsement, URI
 - CTE Endorsement, RWU
-- Personal fitness goals.
+- Personal fitness goals
 
 ## My Identity
 - Cis-Male, Irish-Canadian-American
