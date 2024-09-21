@@ -1,5 +1,6 @@
 ## My current projects
 - CS Endorsement, URI
+- Project Lead the Way: Computer Science, Engineering Cert
 - CTE Endorsement, RWU
 - Personal fitness goals
 
