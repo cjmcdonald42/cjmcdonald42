@@ -1,7 +1,6 @@
 ## My current projects
 - CS Endorsement, URI
 - Project Lead the Way: Computer Science, Engineering
-- CTE Endorsement, RIDE
 - Personal fitness goals
 
 ## My Identity
