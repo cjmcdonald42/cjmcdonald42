@@ -1,4 +1,6 @@
 ## My current projects
+- Game Theory and Coding using Modded Minecraft
+- Establish Student Help Desk
 - Project Lead the Way: Computer Science
 - Personal fitness goals
 
