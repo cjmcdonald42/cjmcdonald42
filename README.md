@@ -1,6 +1,5 @@
 ## My current projects
-- Game Theory and Coding using Modded Minecraft
-- Python coding: Hackathon and SkillsUSA prep
+- App Development, Python
 - Establish Student Help Desk
 - Project Lead the Way: Computer Science
 - Personal fitness goals
