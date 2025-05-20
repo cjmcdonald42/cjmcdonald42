@@ -1,7 +1,5 @@
 ## My current projects
 - App Development, Python
-- Establish Student Help Desk
-- Project Lead the Way: Computer Science
 - Personal fitness goals
 
 ## My Identity
