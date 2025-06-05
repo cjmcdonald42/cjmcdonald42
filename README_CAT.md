@@ -17,3 +17,6 @@
 ## IRL:
 - [Pathfinder 2e](https://paizo.com/), [Elder Scrolls Online](https://www.elderscrollsonline.com/en-us/home), [Hogwarts Legacy](https://www.hogwartslegacy.com/), Minecraft
 - [Wild Strawberry](https://www.adagio.com/herbal/wild_strawberry.html) Tea, Follow me on [Steepster](https://steepster.com/cjmcdonald)
+
+## Social Media
+Steepster, Goodreads?
