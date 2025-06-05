@@ -1,2 +1,4 @@
-# macOS Directory Settings
+.venv/
+.idea/
 .DS_Store
+desktop.ini
