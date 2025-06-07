@@ -15,7 +15,6 @@
 - [Computer Science Teachers Association (CSTA & CSTA-RI)](https://csteachers.org/)
 
 ## My Identity
-- [LinkedIn](https://www.linkedin.com/in/cjmcdonald42/)
 - Cis-Male, Irish-Canadian-American
 - MBTI: [ENFJ-A](https://www.16personalities.com/enfj-personality) \(Protagonist\)
 - [Eagle Scout](https://www.cccbsa.org/2023/02/13/what-it-means-to-be-an-eagle-scout/), [Hufflepuff](https://www.wizardingworld.com/collections/hufflepuff)
