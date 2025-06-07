@@ -12,6 +12,7 @@
 - [International Society for Technology in Education (ISTE)](https://www.iste.org/)
 - [Association for Supervision and Curriculum Development (ASCD)](http://www.ascd.org/)
 - [New England Association of Chemistry Teachers (NEACT)](https://neact.org/)
+- [Computer Science Teachers Association (CSTA & CSTA-RI)](https://csteachers.org/)
 
 ## My Portfolio
 - [LinkedIn](https://www.linkedin.com/in/cjmcdonald42/)
