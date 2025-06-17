@@ -1,10 +1,6 @@
 ## My current projects
 - Develop Cybersecurity CTE program
-  - Develop program overview
-  - Develop 9th grade exploratory experience
-  - Develop 10th grade Cybersecurity course
-  - Prepare for and take the NOCTI Cybersecurity exam
-  - RIDE Cybersecurity CTE certification
+- RIDE Cybersecurity CTE certification
 - Set up my new home
 - Personal fitness goals
 
