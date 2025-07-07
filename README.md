@@ -1,6 +1,5 @@
 ## My current projects
 - Develop Cybersecurity CTE program
-- RIDE Cybersecurity CTE certification
 - Set up my new home
 - Personal fitness goals
 
