@@ -1,7 +1,5 @@
 ## My current projects
 - Develop Cybersecurity CTE program
-- Create new GPG Keys for a new year
-- Learn more about [AI in Education](https://www.iste.org/explore/AI-in-Education)
 - Set up my new home
 - Personal fitness goals
 
