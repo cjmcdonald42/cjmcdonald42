@@ -8,6 +8,7 @@
 - [Association for Supervision and Curriculum Development (ASCD)](http://www.ascd.org/)
 - [New England Association of Chemistry Teachers (NEACT)](https://neact.org/)
 - [Computer Science Teachers Association (CSTA & CSTA-RI)](https://csteachers.org/)
+- [Rhode Island Science Teachers Association (RISTA)](https://www.rista.us/)
 
 ## My Identity
 - Cis-Male, Irish-Canadian-American
