@@ -1,5 +1,7 @@
 ## My current projects
-- Develop Cybersecurity CTE program
+- Grow CTE Cybersecurity program
+- Build CTE Advisory Committee
+- Explore Work Based Learning Opportunities
 - Set up my new home
 - Personal fitness goals
 
