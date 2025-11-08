@@ -1,7 +1,5 @@
 ## My current projects
 - Grow CTE Cybersecurity program
-- Build CTE Advisory Committee
-- Explore Work Based Learning Opportunities
 - Set up my new home
 - Personal fitness goals
 
@@ -13,7 +11,7 @@
 - [Rhode Island Science Teachers Association (RISTA)](https://www.rista.us/)
 
 ## My Identity
-- Cis-Male, Irish-Canadian-American
+- Cis-Male, Irish, Canadian, American
 - MBTI: [ENFJ-A](https://www.16personalities.com/enfj-personality) \(Protagonist\)
 - [Eagle Scout](https://www.cccbsa.org/2023/02/13/what-it-means-to-be-an-eagle-scout/), [Hufflepuff](https://www.wizardingworld.com/collections/hufflepuff)
 - Pronouns: he, him \([Why this matters](https://www.mypronouns.org/what-and-why)\)
