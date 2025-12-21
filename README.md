@@ -1,7 +1,7 @@
 ## My current projects
-- Grow CTE Cybersecurity program
-- Set up my new home
-- Personal fitness goals
+- Prepare for incoming frosh class
+- Review AP Cybersecurity topics and plan for the Spring Semester
+- Personal Fitness Goals
 
 ## Professional Affiliations
 - [International Society for Technology in Education (ISTE)](https://www.iste.org/)
