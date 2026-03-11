@@ -1,6 +1,6 @@
 ## My current projects
-- Prepare for incoming frosh class
-- Review AP Cybersecurity topics and plan for the Spring Semester
+- SkillsUSA
+- AP Cybersecurity
 - Personal Fitness Goals
 
 ## Professional Affiliations
