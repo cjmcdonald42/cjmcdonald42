@@ -1,5 +1,4 @@
 ## My current projects
-- SkillsUSA
 - AP Cybersecurity
 - Personal Fitness Goals
 
