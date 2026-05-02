@@ -14,3 +14,5 @@
 - MBTI: [ENFJ-A](https://www.16personalities.com/enfj-personality) \(Protagonist\)
 - [Eagle Scout](https://lhcscouting.org/what-is-an-eagle-scout/), [Hufflepuff](https://www.wizardingworld.com/collections/hufflepuff)
 - Pronouns: he, him \([Why this matters](https://www.mypronouns.org/what-and-why)\)
+
+![Static Badge](https://img.shields.io/badge/exercism.io-%236f2ff5?logo=exercism&logoColor=%23FFFFFF)
