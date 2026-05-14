@@ -1,5 +1,4 @@
 ## My current projects
-- AP Cybersecurity
 - Personal Fitness Goals
 
 ## Professional Affiliations
