@@ -1,4 +1,7 @@
 ## My current projects
+- AP Cybersecurity, Rhode Island cohort
+- ICAI at URI
+- Prepare for 2026-2027 school year!
 - Personal Fitness Goals
 
 ## Professional Affiliations
