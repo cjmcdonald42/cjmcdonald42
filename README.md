@@ -1,14 +1,13 @@
 ## My current projects
-- AP Cybersecurity, Rhode Island cohort
-- ICAI at URI
+- ICAI at URI (July-August)
 - Prepare for 2026-2027 school year!
 - Personal Fitness Goals
 
 ## Professional Affiliations
+- [Computer Science Teachers Association (CSTA & CSTA-RI)](https://csteachers.org/)
 - [International Society for Technology in Education (ISTE)](https://www.iste.org/)
 - [Association for Supervision and Curriculum Development (ASCD)](http://www.ascd.org/)
 - [New England Association of Chemistry Teachers (NEACT)](https://neact.org/)
-- [Computer Science Teachers Association (CSTA & CSTA-RI)](https://csteachers.org/)
 - [Rhode Island Science Teachers Association (RISTA)](https://www.rista.us/)
 
 ## My Identity
