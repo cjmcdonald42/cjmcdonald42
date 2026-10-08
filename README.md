@@ -1,6 +1,6 @@
 ## My current projects
-- ICAI at URI (July-August)
-- Prepare for 2026-2027 school year!
+- Fall 2026 Exploratory
+- TryHackMe, CompTIA Tech+
 - Personal Fitness Goals
 
 ## Professional Affiliations
