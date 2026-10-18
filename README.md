@@ -1,6 +1,6 @@
 ## My current projects
 - Fall 2026 Exploratory Recruitment
-- Junior Curriculum: TryHackMe, CompTIA Tech+
+- Junior Curriculum: TryHackMe, CompTIA Tech+, URI Cybersecurity
 - CuraCourse CS4RI Standards
 - Personal Fitness Goals
 
